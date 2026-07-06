@@ -183,3 +183,19 @@ def mostrar_productos(productos, inventario):
         print("Stock:", inventario[codigo][0])
         print("Vendidos:", inventario[codigo][1])
         print("--------------------------")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        #Profe apiadese de mi
