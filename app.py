@@ -249,3 +249,5 @@ if __name__ == "__main__":
     main()
 
     #SON LAS 4 DE LA MAÑANA PORFAVOR FUNCIONAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+    #Profe una disculpa por el lenguaje no sabia que se veria el commit
